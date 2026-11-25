@@ -1,0 +1,24 @@
+# Ficheros que genera el código durante las sesiones
+resultados/
+datos/descargas/
+/vivienda.py
+/mi_vivienda.py
+# Microdatos con licencia: no se suben
+*.sav
+!datos/barometro.sav
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+~$*
+
+# Soluciones de las practicas: se quedan solo en el ordenador del profesor
+*_resuelta.ipynb
+
+# Material solo para el profesorado (no se publica)
+_fuente/
+_profesorado/
+sesiones/*/*_guion.md
+# Diapositivas: se comparten por Studium/Drive, no en el repositorio
+*.pptx
+~$*

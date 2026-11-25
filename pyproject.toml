@@ -1,0 +1,13 @@
+[project]
+name = "ppy-analisis-social"
+version = "0.1.0"
+description = "Materiales de «Programación avanzada en Python aplicada al análisis social» (USAL-UGR)"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy", "scipy", "pandas>=2.2", "pyarrow", "pyreadstat", "requests",
+    "matplotlib", "seaborn", "plotly", "statsmodels", "streamlit",
+    "jupyterlab", "nbformat", "nbclient", "ipykernel",
+]
+
+[tool.uv]
+package = false

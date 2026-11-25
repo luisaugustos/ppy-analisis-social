@@ -1,0 +1,12 @@
+# Entorno de Binder para el código en vivo (Thebe) del libro de la asignatura.
+# Mismas librerías que pyproject.toml, sin las herramientas de desarrollo.
+numpy
+scipy
+pandas>=2.2
+pyarrow
+pyreadstat
+requests
+matplotlib
+seaborn
+plotly
+statsmodels

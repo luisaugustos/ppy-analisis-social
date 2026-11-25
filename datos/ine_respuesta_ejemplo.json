@@ -1,0 +1,394 @@
+[
+ {
+  "COD": "HPT00HIP",
+  "Nombre": "Viviendas. Número de hipotecas. Total Nacional. Base nueva. Mensual. ",
+  "T3_Unidad": "Hipotecas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 1,
+    "T3_Variable": "Naturaleza de la finca",
+    "Nombre": "Viviendas",
+    "Codigo": ""
+   },
+   {
+    "Id": 2,
+    "T3_Variable": "Concepto financiero",
+    "Nombre": "Número de hipotecas",
+    "Codigo": ""
+   },
+   {
+    "Id": 3,
+    "T3_Variable": "Total Nacional",
+    "Nombre": "Total Nacional",
+    "Codigo": "00"
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M08",
+    "Anyo": 2026,
+    "Valor": 44300.0
+   },
+   {
+    "Fecha": "2026-07-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M07",
+    "Anyo": 2026,
+    "Valor": 53409.0
+   },
+   {
+    "Fecha": "2026-06-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M06",
+    "Anyo": 2026,
+    "Valor": 53768.0
+   }
+  ]
+ },
+ {
+  "COD": "HPT00IMP",
+  "Nombre": "Viviendas. Importe de hipotecas. Total Nacional. Base nueva. Mensual. ",
+  "T3_Unidad": "Euros",
+  "T3_Escala": "Miles",
+  "MetaData": [
+   {
+    "Id": 1,
+    "T3_Variable": "Naturaleza de la finca",
+    "Nombre": "Viviendas",
+    "Codigo": ""
+   },
+   {
+    "Id": 2,
+    "T3_Variable": "Concepto financiero",
+    "Nombre": "Importe de hipotecas",
+    "Codigo": ""
+   },
+   {
+    "Id": 3,
+    "T3_Variable": "Total Nacional",
+    "Nombre": "Total Nacional",
+    "Codigo": "00"
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M08",
+    "Anyo": 2026,
+    "Valor": 7515016.0
+   },
+   {
+    "Fecha": "2026-07-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M07",
+    "Anyo": 2026,
+    "Valor": 9036978.0
+   },
+   {
+    "Fecha": "2026-06-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M06",
+    "Anyo": 2026,
+    "Valor": 9058382.0
+   }
+  ]
+ },
+ {
+  "COD": "HPT18HIP",
+  "Nombre": "Viviendas. Número de hipotecas. Granada. Base nueva. Mensual. ",
+  "T3_Unidad": "Hipotecas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 1,
+    "T3_Variable": "Naturaleza de la finca",
+    "Nombre": "Viviendas",
+    "Codigo": ""
+   },
+   {
+    "Id": 2,
+    "T3_Variable": "Concepto financiero",
+    "Nombre": "Número de hipotecas",
+    "Codigo": ""
+   },
+   {
+    "Id": 3,
+    "T3_Variable": "Provincias",
+    "Nombre": "Granada",
+    "Codigo": "18"
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M08",
+    "Anyo": 2026,
+    "Valor": 1128.0
+   },
+   {
+    "Fecha": "2026-07-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M07",
+    "Anyo": 2026,
+    "Valor": 900.0
+   },
+   {
+    "Fecha": "2026-06-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M06",
+    "Anyo": 2026,
+    "Valor": 973.0
+   }
+  ]
+ },
+ {
+  "COD": "HPT18IMP",
+  "Nombre": "Viviendas. Importe de hipotecas. Granada. Base nueva. Mensual. ",
+  "T3_Unidad": "Euros",
+  "T3_Escala": "Miles",
+  "MetaData": [
+   {
+    "Id": 1,
+    "T3_Variable": "Naturaleza de la finca",
+    "Nombre": "Viviendas",
+    "Codigo": ""
+   },
+   {
+    "Id": 2,
+    "T3_Variable": "Concepto financiero",
+    "Nombre": "Importe de hipotecas",
+    "Codigo": ""
+   },
+   {
+    "Id": 3,
+    "T3_Variable": "Provincias",
+    "Nombre": "Granada",
+    "Codigo": "18"
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M08",
+    "Anyo": 2026,
+    "Valor": 147736.0
+   },
+   {
+    "Fecha": "2026-07-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M07",
+    "Anyo": 2026,
+    "Valor": 112618.0
+   },
+   {
+    "Fecha": "2026-06-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M06",
+    "Anyo": 2026,
+    "Valor": 124593.0
+   }
+  ]
+ },
+ {
+  "COD": "HPT28HIP",
+  "Nombre": "Viviendas. Número de hipotecas. Madrid. Base nueva. Mensual. ",
+  "T3_Unidad": "Hipotecas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 1,
+    "T3_Variable": "Naturaleza de la finca",
+    "Nombre": "Viviendas",
+    "Codigo": ""
+   },
+   {
+    "Id": 2,
+    "T3_Variable": "Concepto financiero",
+    "Nombre": "Número de hipotecas",
+    "Codigo": ""
+   },
+   {
+    "Id": 3,
+    "T3_Variable": "Provincias",
+    "Nombre": "Madrid",
+    "Codigo": "28"
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M08",
+    "Anyo": 2026,
+    "Valor": 5734.0
+   },
+   {
+    "Fecha": "2026-07-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M07",
+    "Anyo": 2026,
+    "Valor": 7207.0
+   },
+   {
+    "Fecha": "2026-06-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M06",
+    "Anyo": 2026,
+    "Valor": 7050.0
+   }
+  ]
+ },
+ {
+  "COD": "HPT28IMP",
+  "Nombre": "Viviendas. Importe de hipotecas. Madrid. Base nueva. Mensual. ",
+  "T3_Unidad": "Euros",
+  "T3_Escala": "Miles",
+  "MetaData": [
+   {
+    "Id": 1,
+    "T3_Variable": "Naturaleza de la finca",
+    "Nombre": "Viviendas",
+    "Codigo": ""
+   },
+   {
+    "Id": 2,
+    "T3_Variable": "Concepto financiero",
+    "Nombre": "Importe de hipotecas",
+    "Codigo": ""
+   },
+   {
+    "Id": 3,
+    "T3_Variable": "Provincias",
+    "Nombre": "Madrid",
+    "Codigo": "28"
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M08",
+    "Anyo": 2026,
+    "Valor": 1210111.0
+   },
+   {
+    "Fecha": "2026-07-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M07",
+    "Anyo": 2026,
+    "Valor": 1436551.0
+   },
+   {
+    "Fecha": "2026-06-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M06",
+    "Anyo": 2026,
+    "Valor": 1452488.0
+   }
+  ]
+ },
+ {
+  "COD": "HPT37HIP",
+  "Nombre": "Viviendas. Número de hipotecas. Salamanca. Base nueva. Mensual. ",
+  "T3_Unidad": "Hipotecas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 1,
+    "T3_Variable": "Naturaleza de la finca",
+    "Nombre": "Viviendas",
+    "Codigo": ""
+   },
+   {
+    "Id": 2,
+    "T3_Variable": "Concepto financiero",
+    "Nombre": "Número de hipotecas",
+    "Codigo": ""
+   },
+   {
+    "Id": 3,
+    "T3_Variable": "Provincias",
+    "Nombre": "Salamanca",
+    "Codigo": "37"
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M08",
+    "Anyo": 2026,
+    "Valor": 243.0
+   },
+   {
+    "Fecha": "2026-07-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M07",
+    "Anyo": 2026,
+    "Valor": 309.0
+   },
+   {
+    "Fecha": "2026-06-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M06",
+    "Anyo": 2026,
+    "Valor": 322.0
+   }
+  ]
+ },
+ {
+  "COD": "HPT37IMP",
+  "Nombre": "Viviendas. Importe de hipotecas. Salamanca. Base nueva. Mensual. ",
+  "T3_Unidad": "Euros",
+  "T3_Escala": "Miles",
+  "MetaData": [
+   {
+    "Id": 1,
+    "T3_Variable": "Naturaleza de la finca",
+    "Nombre": "Viviendas",
+    "Codigo": ""
+   },
+   {
+    "Id": 2,
+    "T3_Variable": "Concepto financiero",
+    "Nombre": "Importe de hipotecas",
+    "Codigo": ""
+   },
+   {
+    "Id": 3,
+    "T3_Variable": "Provincias",
+    "Nombre": "Salamanca",
+    "Codigo": "37"
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M08",
+    "Anyo": 2026,
+    "Valor": 39397.0
+   },
+   {
+    "Fecha": "2026-07-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M07",
+    "Anyo": 2026,
+    "Valor": 52550.0
+   },
+   {
+    "Fecha": "2026-06-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Provisional",
+    "T3_Periodo": "M06",
+    "Anyo": 2026,
+    "Valor": 54550.0
+   }
+  ]
+ }
+]

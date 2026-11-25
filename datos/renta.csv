@@ -1,0 +1,521 @@
+cod_prov,provincia,anyo,renta_neta_persona
+01,Araba/Álava,2015,12079
+01,Araba/Álava,2016,12551
+01,Araba/Álava,2017,12883
+01,Araba/Álava,2018,13405
+01,Araba/Álava,2019,13777
+01,Araba/Álava,2020,14339
+01,Araba/Álava,2021,14534
+01,Araba/Álava,2022,15415
+01,Araba/Álava,2023,15895
+01,Araba/Álava,2024,16202
+02,Albacete,2015,8153
+02,Albacete,2016,8567
+02,Albacete,2017,8657
+02,Albacete,2018,8920
+02,Albacete,2019,9402
+02,Albacete,2020,9617
+02,Albacete,2021,10037
+02,Albacete,2022,10409
+02,Albacete,2023,10776
+02,Albacete,2024,11107
+03,Alicante/Alacant,2015,10716
+03,Alicante/Alacant,2016,11017
+03,Alicante/Alacant,2017,11429
+03,Alicante/Alacant,2018,12016
+03,Alicante/Alacant,2019,12456
+03,Alicante/Alacant,2020,12752
+03,Alicante/Alacant,2021,13382
+03,Alicante/Alacant,2022,13785
+03,Alicante/Alacant,2023,14226
+03,Alicante/Alacant,2024,14761
+04,Almería,2015,9745
+04,Almería,2016,9979
+04,Almería,2017,10566
+04,Almería,2018,10508
+04,Almería,2019,11105
+04,Almería,2020,11465
+04,Almería,2021,11876
+04,Almería,2022,12294
+04,Almería,2023,12836
+04,Almería,2024,13225
+05,Ávila,2015,11329
+05,Ávila,2016,11542
+05,Ávila,2017,11893
+05,Ávila,2018,12338
+05,Ávila,2019,12723
+05,Ávila,2020,13162
+05,Ávila,2021,13528
+05,Ávila,2022,14112
+05,Ávila,2023,14730
+05,Ávila,2024,15360
+06,Badajoz,2015,8788
+06,Badajoz,2016,9071
+06,Badajoz,2017,9343
+06,Badajoz,2018,9840
+06,Badajoz,2019,9811
+06,Badajoz,2020,10386
+06,Badajoz,2021,10817
+06,Badajoz,2022,11211
+06,Badajoz,2023,11457
+06,Badajoz,2024,11896
+07,"Balears, Illes",2015,10528
+07,"Balears, Illes",2016,10921
+07,"Balears, Illes",2017,11212
+07,"Balears, Illes",2018,11826
+07,"Balears, Illes",2019,12236
+07,"Balears, Illes",2020,12581
+07,"Balears, Illes",2021,12693
+07,"Balears, Illes",2022,13394
+07,"Balears, Illes",2023,13886
+07,"Balears, Illes",2024,14453
+08,Barcelona,2015,11714
+08,Barcelona,2016,11925
+08,Barcelona,2017,12342
+08,Barcelona,2018,12919
+08,Barcelona,2019,13237
+08,Barcelona,2020,13776
+08,Barcelona,2021,14225
+08,Barcelona,2022,14692
+08,Barcelona,2023,15194
+08,Barcelona,2024,15713
+09,Burgos,2015,9204
+09,Burgos,2016,9683
+09,Burgos,2017,9855
+09,Burgos,2018,10301
+09,Burgos,2019,10768
+09,Burgos,2020,10915
+09,Burgos,2021,11258
+09,Burgos,2022,11777
+09,Burgos,2023,12260
+09,Burgos,2024,12658
+10,Cáceres,2015,8527
+10,Cáceres,2016,9013
+10,Cáceres,2017,9300
+10,Cáceres,2018,9549
+10,Cáceres,2019,9866
+10,Cáceres,2020,10552
+10,Cáceres,2021,10688
+10,Cáceres,2022,11033
+10,Cáceres,2023,11341
+10,Cáceres,2024,12110
+11,Cádiz,2015,9500
+11,Cádiz,2016,10017
+11,Cádiz,2017,10191
+11,Cádiz,2018,10621
+11,Cádiz,2019,11163
+11,Cádiz,2020,11483
+11,Cádiz,2021,11760
+11,Cádiz,2022,12391
+11,Cádiz,2023,12730
+11,Cádiz,2024,12974
+12,Castellón/Castelló,2015,9217
+12,Castellón/Castelló,2016,9581
+12,Castellón/Castelló,2017,9856
+12,Castellón/Castelló,2018,10082
+12,Castellón/Castelló,2019,10392
+12,Castellón/Castelló,2020,10708
+12,Castellón/Castelló,2021,11267
+12,Castellón/Castelló,2022,11641
+12,Castellón/Castelló,2023,11946
+12,Castellón/Castelló,2024,12436
+13,Ciudad Real,2015,11114
+13,Ciudad Real,2016,11488
+13,Ciudad Real,2017,11977
+13,Ciudad Real,2018,12081
+13,Ciudad Real,2019,12801
+13,Ciudad Real,2020,13207
+13,Ciudad Real,2021,13792
+13,Ciudad Real,2022,14071
+13,Ciudad Real,2023,14568
+13,Ciudad Real,2024,14925
+14,Córdoba,2015,9263
+14,Córdoba,2016,9621
+14,Córdoba,2017,10229
+14,Córdoba,2018,10398
+14,Córdoba,2019,10642
+14,Córdoba,2020,10994
+14,Córdoba,2021,11519
+14,Córdoba,2022,12038
+14,Córdoba,2023,12457
+14,Córdoba,2024,12493
+15,"Coruña, A",2015,9670
+15,"Coruña, A",2016,10028
+15,"Coruña, A",2017,10419
+15,"Coruña, A",2018,10982
+15,"Coruña, A",2019,11292
+15,"Coruña, A",2020,11688
+15,"Coruña, A",2021,11932
+15,"Coruña, A",2022,12553
+15,"Coruña, A",2023,12772
+15,"Coruña, A",2024,13319
+16,Cuenca,2015,9205
+16,Cuenca,2016,9560
+16,Cuenca,2017,9826
+16,Cuenca,2018,10344
+16,Cuenca,2019,10495
+16,Cuenca,2020,11061
+16,Cuenca,2021,11416
+16,Cuenca,2022,11933
+16,Cuenca,2023,12061
+16,Cuenca,2024,12351
+17,Girona,2015,12970
+17,Girona,2016,13760
+17,Girona,2017,14440
+17,Girona,2018,14674
+17,Girona,2019,15444
+17,Girona,2020,15987
+17,Girona,2021,16258
+17,Girona,2022,16831
+17,Girona,2023,17452
+17,Girona,2024,18376
+18,Granada,2015,8519
+18,Granada,2016,8831
+18,Granada,2017,9225
+18,Granada,2018,9443
+18,Granada,2019,9723
+18,Granada,2020,10079
+18,Granada,2021,10452
+18,Granada,2022,10887
+18,Granada,2023,11132
+18,Granada,2024,11364
+19,Guadalajara,2015,10320
+19,Guadalajara,2016,10760
+19,Guadalajara,2017,11105
+19,Guadalajara,2018,11589
+19,Guadalajara,2019,11925
+19,Guadalajara,2020,12182
+19,Guadalajara,2021,12784
+19,Guadalajara,2022,13241
+19,Guadalajara,2023,13645
+19,Guadalajara,2024,13838
+20,Gipuzkoa,2015,11751
+20,Gipuzkoa,2016,12450
+20,Gipuzkoa,2017,12516
+20,Gipuzkoa,2018,13090
+20,Gipuzkoa,2019,13413
+20,Gipuzkoa,2020,13913
+20,Gipuzkoa,2021,14399
+20,Gipuzkoa,2022,14818
+20,Gipuzkoa,2023,15775
+20,Gipuzkoa,2024,16358
+21,Huelva,2015,10122
+21,Huelva,2016,10631
+21,Huelva,2017,10880
+21,Huelva,2018,11272
+21,Huelva,2019,11580
+21,Huelva,2020,12160
+21,Huelva,2021,12550
+21,Huelva,2022,12835
+21,Huelva,2023,13526
+21,Huelva,2024,13710
+22,Huesca,2015,10786
+22,Huesca,2016,11361
+22,Huesca,2017,11386
+22,Huesca,2018,11885
+22,Huesca,2019,12278
+22,Huesca,2020,12778
+22,Huesca,2021,13142
+22,Huesca,2022,13692
+22,Huesca,2023,13947
+22,Huesca,2024,14704
+23,Jaén,2015,8440
+23,Jaén,2016,8887
+23,Jaén,2017,9391
+23,Jaén,2018,9720
+23,Jaén,2019,10233
+23,Jaén,2020,10229
+23,Jaén,2021,10516
+23,Jaén,2022,11172
+23,Jaén,2023,11349
+23,Jaén,2024,11921
+24,León,2015,11469
+24,León,2016,12288
+24,León,2017,12482
+24,León,2018,13057
+24,León,2019,13712
+24,León,2020,14174
+24,León,2021,14224
+24,León,2022,14959
+24,León,2023,15320
+24,León,2024,15780
+25,Lleida,2015,13386
+25,Lleida,2016,13920
+25,Lleida,2017,14614
+25,Lleida,2018,14625
+25,Lleida,2019,15368
+25,Lleida,2020,15735
+25,Lleida,2021,16229
+25,Lleida,2022,17192
+25,Lleida,2023,17545
+25,Lleida,2024,18306
+26,"Rioja, La",2015,11677
+26,"Rioja, La",2016,11931
+26,"Rioja, La",2017,12335
+26,"Rioja, La",2018,12826
+26,"Rioja, La",2019,13432
+26,"Rioja, La",2020,13835
+26,"Rioja, La",2021,13992
+26,"Rioja, La",2022,14566
+26,"Rioja, La",2023,15188
+26,"Rioja, La",2024,15578
+27,Lugo,2015,11926
+27,Lugo,2016,12110
+27,Lugo,2017,12618
+27,Lugo,2018,12992
+27,Lugo,2019,13394
+27,Lugo,2020,13934
+27,Lugo,2021,14405
+27,Lugo,2022,15017
+27,Lugo,2023,15657
+27,Lugo,2024,16102
+28,Madrid,2015,11457
+28,Madrid,2016,11847
+28,Madrid,2017,12280
+28,Madrid,2018,12707
+28,Madrid,2019,13128
+28,Madrid,2020,13290
+28,Madrid,2021,14013
+28,Madrid,2022,14346
+28,Madrid,2023,14929
+28,Madrid,2024,15584
+29,Málaga,2015,11263
+29,Málaga,2016,11348
+29,Málaga,2017,11793
+29,Málaga,2018,12335
+29,Málaga,2019,12815
+29,Málaga,2020,13263
+29,Málaga,2021,13674
+29,Málaga,2022,14318
+29,Málaga,2023,14697
+29,Málaga,2024,15224
+30,Murcia,2015,8350
+30,Murcia,2016,8757
+30,Murcia,2017,9046
+30,Murcia,2018,9309
+30,Murcia,2019,9628
+30,Murcia,2020,10110
+30,Murcia,2021,10481
+30,Murcia,2022,10761
+30,Murcia,2023,11021
+30,Murcia,2024,11394
+31,Navarra,2015,11592
+31,Navarra,2016,12040
+31,Navarra,2017,12500
+31,Navarra,2018,12842
+31,Navarra,2019,13365
+31,Navarra,2020,13614
+31,Navarra,2021,14313
+31,Navarra,2022,14770
+31,Navarra,2023,15139
+31,Navarra,2024,15825
+32,Ourense,2015,9676
+32,Ourense,2016,9898
+32,Ourense,2017,10192
+32,Ourense,2018,10466
+32,Ourense,2019,11067
+32,Ourense,2020,11296
+32,Ourense,2021,11782
+32,Ourense,2022,12036
+32,Ourense,2023,12630
+32,Ourense,2024,12831
+33,Asturias,2015,11532
+33,Asturias,2016,11834
+33,Asturias,2017,12331
+33,Asturias,2018,12801
+33,Asturias,2019,13038
+33,Asturias,2020,13579
+33,Asturias,2021,14114
+33,Asturias,2022,14588
+33,Asturias,2023,14928
+33,Asturias,2024,15522
+34,Palencia,2015,9134
+34,Palencia,2016,9445
+34,Palencia,2017,9786
+34,Palencia,2018,10090
+34,Palencia,2019,10424
+34,Palencia,2020,10607
+34,Palencia,2021,11398
+34,Palencia,2022,11510
+34,Palencia,2023,11913
+34,Palencia,2024,12311
+35,"Palmas, Las",2015,8798
+35,"Palmas, Las",2016,9211
+35,"Palmas, Las",2017,9572
+35,"Palmas, Las",2018,9800
+35,"Palmas, Las",2019,10172
+35,"Palmas, Las",2020,10508
+35,"Palmas, Las",2021,10894
+35,"Palmas, Las",2022,11335
+35,"Palmas, Las",2023,11689
+35,"Palmas, Las",2024,12076
+36,Pontevedra,2015,10749
+36,Pontevedra,2016,11126
+36,Pontevedra,2017,11617
+36,Pontevedra,2018,11774
+36,Pontevedra,2019,12138
+36,Pontevedra,2020,12791
+36,Pontevedra,2021,12995
+36,Pontevedra,2022,13604
+36,Pontevedra,2023,14019
+36,Pontevedra,2024,14578
+37,Salamanca,2015,11501
+37,Salamanca,2016,11794
+37,Salamanca,2017,12253
+37,Salamanca,2018,12842
+37,Salamanca,2019,13195
+37,Salamanca,2020,13628
+37,Salamanca,2021,14115
+37,Salamanca,2022,14527
+37,Salamanca,2023,14956
+37,Salamanca,2024,15723
+38,Santa Cruz de Tenerife,2015,10300
+38,Santa Cruz de Tenerife,2016,10642
+38,Santa Cruz de Tenerife,2017,11039
+38,Santa Cruz de Tenerife,2018,11595
+38,Santa Cruz de Tenerife,2019,11624
+38,Santa Cruz de Tenerife,2020,12352
+38,Santa Cruz de Tenerife,2021,12742
+38,Santa Cruz de Tenerife,2022,13117
+38,Santa Cruz de Tenerife,2023,13419
+38,Santa Cruz de Tenerife,2024,14001
+39,Cantabria,2015,11898
+39,Cantabria,2016,12300
+39,Cantabria,2017,12628
+39,Cantabria,2018,13144
+39,Cantabria,2019,13645
+39,Cantabria,2020,14214
+39,Cantabria,2021,14750
+39,Cantabria,2022,14975
+39,Cantabria,2023,15537
+39,Cantabria,2024,15962
+40,Segovia,2015,10849
+40,Segovia,2016,11232
+40,Segovia,2017,11926
+40,Segovia,2018,12319
+40,Segovia,2019,12557
+40,Segovia,2020,12878
+40,Segovia,2021,13424
+40,Segovia,2022,13888
+40,Segovia,2023,14379
+40,Segovia,2024,14585
+41,Sevilla,2015,9030
+41,Sevilla,2016,9344
+41,Sevilla,2017,9521
+41,Sevilla,2018,9937
+41,Sevilla,2019,10380
+41,Sevilla,2020,10598
+41,Sevilla,2021,11052
+41,Sevilla,2022,11470
+41,Sevilla,2023,11698
+41,Sevilla,2024,12376
+42,Soria,2015,8355
+42,Soria,2016,8436
+42,Soria,2017,8892
+42,Soria,2018,9262
+42,Soria,2019,9511
+42,Soria,2020,9853
+42,Soria,2021,10165
+42,Soria,2022,10420
+42,Soria,2023,10864
+42,Soria,2024,11290
+43,Tarragona,2015,14370
+43,Tarragona,2016,14795
+43,Tarragona,2017,15330
+43,Tarragona,2018,15883
+43,Tarragona,2019,16613
+43,Tarragona,2020,16944
+43,Tarragona,2021,17731
+43,Tarragona,2022,18215
+43,Tarragona,2023,18520
+43,Tarragona,2024,19244
+44,Teruel,2015,9919
+44,Teruel,2016,9997
+44,Teruel,2017,10395
+44,Teruel,2018,10955
+44,Teruel,2019,11440
+44,Teruel,2020,11590
+44,Teruel,2021,12191
+44,Teruel,2022,12290
+44,Teruel,2023,13017
+44,Teruel,2024,13442
+45,Toledo,2015,10287
+45,Toledo,2016,10674
+45,Toledo,2017,11110
+45,Toledo,2018,11402
+45,Toledo,2019,11864
+45,Toledo,2020,12281
+45,Toledo,2021,12740
+45,Toledo,2022,13024
+45,Toledo,2023,13738
+45,Toledo,2024,14261
+46,Valencia/València,2015,10924
+46,Valencia/València,2016,11268
+46,Valencia/València,2017,11756
+46,Valencia/València,2018,11955
+46,Valencia/València,2019,12457
+46,Valencia/València,2020,12790
+46,Valencia/València,2021,13499
+46,Valencia/València,2022,13938
+46,Valencia/València,2023,14415
+46,Valencia/València,2024,14987
+47,Valladolid,2015,9605
+47,Valladolid,2016,10029
+47,Valladolid,2017,10518
+47,Valladolid,2018,10913
+47,Valladolid,2019,11096
+47,Valladolid,2020,11518
+47,Valladolid,2021,11948
+47,Valladolid,2022,12331
+47,Valladolid,2023,12515
+47,Valladolid,2024,13277
+48,Bizkaia,2015,12714
+48,Bizkaia,2016,13310
+48,Bizkaia,2017,13552
+48,Bizkaia,2018,14072
+48,Bizkaia,2019,14363
+48,Bizkaia,2020,15104
+48,Bizkaia,2021,15433
+48,Bizkaia,2022,16365
+48,Bizkaia,2023,16655
+48,Bizkaia,2024,17420
+49,Zamora,2015,11310
+49,Zamora,2016,11725
+49,Zamora,2017,12221
+49,Zamora,2018,12479
+49,Zamora,2019,13132
+49,Zamora,2020,13456
+49,Zamora,2021,13940
+49,Zamora,2022,14829
+49,Zamora,2023,15014
+49,Zamora,2024,15624
+50,Zaragoza,2015,9083
+50,Zaragoza,2016,9490
+50,Zaragoza,2017,9759
+50,Zaragoza,2018,10140
+50,Zaragoza,2019,10445
+50,Zaragoza,2020,10962
+50,Zaragoza,2021,11070
+50,Zaragoza,2022,11605
+50,Zaragoza,2023,12030
+50,Zaragoza,2024,12461
+51,Ceuta,2015,11437
+51,Ceuta,2016,11808
+51,Ceuta,2017,12064
+51,Ceuta,2018,12653
+51,Ceuta,2019,12864
+51,Ceuta,2020,13472
+51,Ceuta,2021,14004
+51,Ceuta,2022,14141
+51,Ceuta,2023,15182
+51,Ceuta,2024,15302
+52,Melilla,2015,9696
+52,Melilla,2016,10042
+52,Melilla,2017,10403
+52,Melilla,2018,10682
+52,Melilla,2019,10952
+52,Melilla,2020,11489
+52,Melilla,2021,11820
+52,Melilla,2022,12191
+52,Melilla,2023,12741
+52,Melilla,2024,13217
